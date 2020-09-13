@@ -14,7 +14,7 @@ Solutions for your agile businesses
 
 * vRetain 1.0 : Build on existing customer relationships to improve productivity and maximize customer loyalty, while growing revenues.
 
-# Contact Information:
+## Contact Information:
 Vecta Corp. HQ  
 555 Technology Pl.  
 San Diego, CA 92555  
