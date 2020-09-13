@@ -1,7 +1,7 @@
 # **Vecta Corp**
 Solutions for your agile businesses
 
-# *About Us*:
+## *About Us*:
 * Overview
 * People
 * Careers
